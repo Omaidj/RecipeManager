@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xfGI7jmSQw/NsRhQJMrFCoPr0gcWTcZnaR+r9mThoW0dBl1XS0Ajv8JoLgH/0grp/NhyfNE3My8d1qcaqArI7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omaid\\OneDrive\\Desktop\\RecipeManager\\RecipeManager\\RecipeManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omaid\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\omaid\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\omaid\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\omaid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

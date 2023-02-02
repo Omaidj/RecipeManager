@@ -1,0 +1,15 @@
+C:\Users\omaid\OneDrive\Desktop\RecipeManager\RecipeManager\bin\Debug\net6.0\RecipeManager.exe
+C:\Users\omaid\OneDrive\Desktop\RecipeManager\RecipeManager\bin\Debug\net6.0\RecipeManager.deps.json
+C:\Users\omaid\OneDrive\Desktop\RecipeManager\RecipeManager\bin\Debug\net6.0\RecipeManager.runtimeconfig.json
+C:\Users\omaid\OneDrive\Desktop\RecipeManager\RecipeManager\bin\Debug\net6.0\RecipeManager.dll
+C:\Users\omaid\OneDrive\Desktop\RecipeManager\RecipeManager\bin\Debug\net6.0\RecipeManager.pdb
+C:\Users\omaid\OneDrive\Desktop\RecipeManager\RecipeManager\obj\Debug\net6.0\RecipeManager.csproj.AssemblyReference.cache
+C:\Users\omaid\OneDrive\Desktop\RecipeManager\RecipeManager\obj\Debug\net6.0\RecipeManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omaid\OneDrive\Desktop\RecipeManager\RecipeManager\obj\Debug\net6.0\RecipeManager.AssemblyInfoInputs.cache
+C:\Users\omaid\OneDrive\Desktop\RecipeManager\RecipeManager\obj\Debug\net6.0\RecipeManager.AssemblyInfo.cs
+C:\Users\omaid\OneDrive\Desktop\RecipeManager\RecipeManager\obj\Debug\net6.0\RecipeManager.csproj.CoreCompileInputs.cache
+C:\Users\omaid\OneDrive\Desktop\RecipeManager\RecipeManager\obj\Debug\net6.0\RecipeManager.dll
+C:\Users\omaid\OneDrive\Desktop\RecipeManager\RecipeManager\obj\Debug\net6.0\refint\RecipeManager.dll
+C:\Users\omaid\OneDrive\Desktop\RecipeManager\RecipeManager\obj\Debug\net6.0\RecipeManager.pdb
+C:\Users\omaid\OneDrive\Desktop\RecipeManager\RecipeManager\obj\Debug\net6.0\RecipeManager.genruntimeconfig.cache
+C:\Users\omaid\OneDrive\Desktop\RecipeManager\RecipeManager\obj\Debug\net6.0\ref\RecipeManager.dll
